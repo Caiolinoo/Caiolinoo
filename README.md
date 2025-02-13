@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Caio Evangelisat and I'm a java student, from SP, Brazil 🇧🇷</p>
+<p align="left">My name is Caio Evangelisata and I'm a java student, from SP, Brazil 🇧🇷</p>
 
 ###
 
